@@ -1,0 +1,6 @@
+{
+  "name": "HemaMesh: MILP Blood Bank Redistribution & Dispatch System",
+  "description": "Advanced Operations Research MILP engine for pan-India blood bank inventory redistribution, Predictive Inventory Forecaster for festival and seasonal surges (Diwali, Dengue, Holi, Kumbh Mela), perishable component shelf-life balancing, trauma deficit mitigation, and cold-chain GPS tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
